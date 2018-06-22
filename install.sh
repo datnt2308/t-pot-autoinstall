@@ -324,7 +324,7 @@ wget https://github.com/bcicen/ctop/releases/download/v0.6.1/ctop-0.6.1-linux-am
 mv ctop /usr/bin/
 chmod +x /usr/bin/ctop
 fuECHO "### Cloning T-Pot."
-git clone https://github.com/dtag-dev-sec/tpotce /opt/tpot
+git clone https://github.com/datn2308/tpotce /opt/tpot
 
 # Let's add a new user
 fuECHO "### Adding new user."
